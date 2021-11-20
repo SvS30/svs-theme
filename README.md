@@ -1,5 +1,16 @@
 # Oh My ZSH Dark Theme
-My Theme for Oh-My-ZSH.
+A clean and distraction-free theme for Oh My ZSH on a dark terminal with the following features:
+- Show full path when not in git project
+- When in a git project it will only show the name of the project or directory
+- Show current git sha
+- Show current branch
+- Show the status of the branch:
+     - ✱: Dirty: when the project had a change, modification or addition
+     - ✔: Clean: when the project has no changes, modifications or the commit was made
+- Use "vivid" colors for better viewing.
+
+### Preview
+![Theme SvS Dark](https://user-images.githubusercontent.com/43234664/142738446-2f11fa63-46b6-4818-8ebc-1fc51f2757ae.jpeg)
 
 ### Prerequisites
 - [Oh my zsh](https://geekytheory.com/como-instalar-oh-my-zsh-en-ubuntu/)
