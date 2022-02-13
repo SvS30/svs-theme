@@ -10,7 +10,7 @@ A clean and distraction-free theme for Oh My ZSH on a dark terminal with the fol
 - Use "vivid" colors for better viewing.
 
 ### Preview
-![Theme SvS Dark](https://user-images.githubusercontent.com/43234664/142738446-2f11fa63-46b6-4818-8ebc-1fc51f2757ae.jpeg)
+![svs-theme](https://user-images.githubusercontent.com/43234664/153779407-d9f0b5c2-c620-4a6b-89f9-2df618c2aef6.png)
 
 ### Prerequisites
 - [Oh my zsh](https://geekytheory.com/como-instalar-oh-my-zsh-en-ubuntu/)
