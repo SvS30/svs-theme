@@ -6,7 +6,7 @@ A clean and distraction-free theme for Oh My ZSH on a dark terminal with the fol
 - Show current branch
 - Show the status of the branch:
      - ✱: Dirty: when the project had a change, modification or addition
-     - ✔: Clean: when the project has no changes, modifications or the commit was made
+     - ✅: Clean: when the project has no changes, modifications or the commit was made
 - Use "vivid" colors for better viewing.
 
 ### Preview

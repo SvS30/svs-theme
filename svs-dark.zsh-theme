@@ -1,5 +1,5 @@
 prompt_indicator() {
-   echo "%{$fg[blue]%} \u276f "
+   echo "%{$fg[blue]%} 🚩 "
 }
 
 get_pwd(){
@@ -24,8 +24,8 @@ ZSH_THEME_GIT_PROMPT_SHA_AFTER="%f"
 # styles for git info
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$FG[255]%}  || %f %{$FG[087]%} "
 ZSH_THEME_GIT_PROMPT_SUFFIX="%f"
-ZSH_THEME_GIT_PROMPT_DIRTY="%{$FG[214]%}\u2731%f"
-ZSH_THEME_GIT_PROMPT_CLEAN="%{$FG[118]%}\u2714%f"
+ZSH_THEME_GIT_PROMPT_DIRTY="%{$FG[214]%}✱%f"
+ZSH_THEME_GIT_PROMPT_CLEAN="%{$FG[118]%}✅%f"
 
 PROMPT='%B$(get_pwd)%f$(git_prompt_short_sha)$(git_prompt_info)%b 
 $(prompt_indicator)%f '
