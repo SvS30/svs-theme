@@ -23,11 +23,11 @@ A clean and distraction-free theme for Oh My ZSH on a dark terminal with the fol
 - Download the theme you like and place it in ZSH custom directory
   - Dark Theme
       ```bash
-      curl -o $ZSH_CUSTOM/themes/svs-dark.zsh-theme https://raw.githubusercontent.com/SvS30/svs-theme/master/svs-dark.zsh-theme
+      curl -o $ZSH/themes/svs-dark.zsh-theme https://raw.githubusercontent.com/SvS30/svs-theme/master/svs-dark.zsh-theme
       ```
   - Light Theme
       ```bash
-      curl -o $ZSH_CUSTOM/themes/svs-light.zsh-theme https://raw.githubusercontent.com/SvS30/svs-theme/master/svs-light.zsh-theme
+      curl -o $ZSH/themes/svs-light.zsh-theme https://raw.githubusercontent.com/SvS30/svs-theme/master/svs-light.zsh-theme
       ```
 
 - Set `ZSH_THEME` to `svs-dark` to use the dark theme  or `svs-light` to use the light theme in `~/.zshrc`
